@@ -1,7 +1,3 @@
-Here's the complete `README.md` and `.gitignore` files for your USSD server project:
-
-## README.md
-
 ```markdown
 # Python USSD Server
 
